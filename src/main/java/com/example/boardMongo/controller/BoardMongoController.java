@@ -52,7 +52,7 @@ public class BoardMongoController {
     public String board() throws Exception {
         System.out.println("board=====");
         return "/board";
-    }
+    }sdfsdf
 
     @RequestMapping("/board2.do")
     public String board2() throws Exception {
